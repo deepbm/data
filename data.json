@@ -1,0 +1,17 @@
+[
+  {
+    "product" : "Beige Bag",
+    "price" : "69,000",
+    "image" : "https://deepbm.github.io/data/beige_bag.jpg"
+  },
+  {
+    "product" : "Tassel Loafer",
+    "price" : "89,000",
+    "image" : "https://deepbm.github.io/data/tassel_loafer.jpg"
+  },
+  {
+    "product" : "Sneakers",
+    "price" : "79,000",
+    "image" : "https://deepbm.github.io/data/sneakers.jpg"
+  }
+]
